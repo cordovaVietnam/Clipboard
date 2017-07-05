@@ -1,0 +1,24 @@
+{
+  "name": "com.verso.cordova.clipboard",
+  "version": "0.1.0",
+  "description": "Clipboard management plugin for Cordova/PhoneGap",
+  "main": "www/clipboard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VersoSolutions/CordovaClipboard.git"
+  },
+  "keywords": [
+    "clipboard",
+    "copy",
+    "paste"
+  ],
+  "author": "Verso Solutions LLC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VersoSolutions/CordovaClipboard/issues"
+  },
+  "homepage": "https://github.com/VersoSolutions/CordovaClipboard#readme"
+}
