@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VersoSolutions/CordovaClipboard.git"
+    "url": "git+https://github.com/cordovaVietnam/cordova-plugin-clipboard.git"
   },
   "keywords": [
     "clipboard",
     "copy",
     "paste"
   ],
-  "author": "Verso Solutions LLC",
+  "author": "Cordova Vietnam",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/VersoSolutions/CordovaClipboard/issues"
+    "url": "https://github.com/cordovaVietnam/cordova-plugin-clipboard/issues"
   },
-  "homepage": "https://github.com/VersoSolutions/CordovaClipboard#readme"
+  "homepage": "https://github.com/cordovaVietnam/cordova-plugin-clipboard/#readme"
 }
